@@ -5,7 +5,7 @@ using namespace std;
 
 //CÓDIGO ASCII
 // 65: A - 66: B - 67: C - 68 - D - 69: E - 70: F
-int func02(char a, int *b, int &c, char &d, int e, void *f){
+int func02(char a, int *&b, int &c, char &d, int e, void *f){
     *b = (int) a +1;
         e = 71;
         *(char*)f = (char)(e-1);
@@ -16,7 +16,7 @@ int func02(char a, int *b, int &c, char &d, int e, void *f){
         f=b;
         b=aux;
 
-        cout<<"var a: " << a <<"; var *b: "<<*b << "; var c: " << c << "; var d: "<<d<<";var e: "<< e<<";var *f: "<< *(char *)f<<endl;
+        cout<<"var a: " << a <<"; var *b: "<<(int)(*b) << "; var c: " << c << "; var d: "<<d<<";var e: "<< e<<";var *f: "<< *(char *)f<<endl;
         return e;
 
 }
@@ -56,7 +56,9 @@ cout<<"\n-------------"<<endl;
  }else cout<<"Son distintos";
 
 
-
+cout<<"\n\np: "<<&p<<" - q: "<<&q<<endl;  //La salida de los punteros no es la misma ya que acá sí se está
+                                        //trabajando con la posición en memoria del puntero, no con
+                                        //la que contiene. Si se le sacara el (&) sí sería la misma salida.
 
     return 0;
 }
