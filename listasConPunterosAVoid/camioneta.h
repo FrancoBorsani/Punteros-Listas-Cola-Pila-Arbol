@@ -13,4 +13,5 @@ typedef struct{
 
 std::string camionetaToString(void * vehiculo);
 
+
 #endif // CAMIONETA_H_INCLUDED

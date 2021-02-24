@@ -36,3 +36,22 @@
 	"auto.h"
 	"camioneta.h"
 
+1614182739 source:c:\users\medicentecno\desktop\punteros-listas-cola-pila-arbol\listasconpunterosavoid\auto.cpp
+	"auto.h"
+	<iostream>
+
+1614182750 c:\users\medicentecno\desktop\punteros-listas-cola-pila-arbol\listasconpunterosavoid\auto.h
+	<string>
+
+1614179131 source:c:\users\medicentecno\desktop\punteros-listas-cola-pila-arbol\listasconpunterosavoid\camioneta.cpp
+	"camioneta.h"
+	<iostream>
+
+1614182653 c:\users\medicentecno\desktop\punteros-listas-cola-pila-arbol\listasconpunterosavoid\camioneta.h
+	<string>
+
+1614184981 source:c:\users\medicentecno\desktop\punteros-listas-cola-pila-arbol\listasconpunterosavoid\main.cpp
+	<iostream>
+	"auto.h"
+	"camioneta.h"
+

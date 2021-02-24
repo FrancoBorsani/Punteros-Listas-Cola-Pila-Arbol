@@ -14,6 +14,8 @@ typedef struct{
 
 std::string autoToString(void * vehiculo);
 
+int getId(void * vehiculo);
+
 
 
 
