@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1609880751 source:c:\users\medicentecno!\desktop\practicando punteros\pila\listasconpunterosavoid\auto.cpp
+	"auto.h"
+
+1609880585 c:\users\medicentecno!\desktop\practicando punteros\pila\listasconpunterosavoid\auto.h
+	<string>
+
+1609881453 source:c:\users\medicentecno!\desktop\practicando punteros\pila\listasconpunterosavoid\camioneta.cpp
+	"camioneta.h"
+	<iostream>
+
+1609880708 c:\users\medicentecno!\desktop\practicando punteros\pila\listasconpunterosavoid\camioneta.h
+	<string>
+
+1609881605 source:c:\users\medicentecno!\desktop\practicando punteros\pila\listasconpunterosavoid\main.cpp
+	<iostream>
+	"auto.h"
+	"camioneta.h"
+
+1609881655 source:c:\users\medicentecno\desktop\practicando punteros\pila\listasconpunterosavoid\auto.cpp
+	"auto.h"
+	<iostream>
+
+1614179145 c:\users\medicentecno\desktop\practicando punteros\pila\listasconpunterosavoid\auto.h
+	<string>
+
+1609881453 source:c:\users\medicentecno\desktop\practicando punteros\pila\listasconpunterosavoid\camioneta.cpp
+	"camioneta.h"
+	<iostream>
+
+1614179144 c:\users\medicentecno\desktop\practicando punteros\pila\listasconpunterosavoid\camioneta.h
+	<string>
+
+1614177138 source:c:\users\medicentecno\desktop\practicando punteros\pila\listasconpunterosavoid\main.cpp
+	<iostream>
+	"auto.h"
+	"camioneta.h"
+
