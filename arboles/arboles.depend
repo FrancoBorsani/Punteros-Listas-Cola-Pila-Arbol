@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1610160925 source:c:\users\medicentecno!\desktop\practicando punteros\arboles\bst.cpp
+	"bst.h"
+	<iostream>
+	<iterator>
+	<cstddef>
+	<vector>
+	<queue>
+
+1610035237 c:\users\medicentecno!\desktop\practicando punteros\arboles\bst.h
+	<cstddef>
+	<iostream>
+	<vector>
+	<iterator>
+	<queue>
+
+1610158059 source:c:\users\medicentecno!\desktop\practicando punteros\arboles\main.cpp
+	"bst.h"
+	<iostream>
+	<iterator>
+	<cstddef>
+	<vector>
+	<queue>
+
+1610160925 source:c:\users\medicentecno\desktop\practicando punteros\arboles\bst.cpp
+	"bst.h"
+	<iostream>
+	<iterator>
+	<cstddef>
+	<vector>
+	<queue>
+
+1610035237 c:\users\medicentecno\desktop\practicando punteros\arboles\bst.h
+	<cstddef>
+	<iostream>
+	<vector>
+	<iterator>
+	<queue>
+
+1610158059 source:c:\users\medicentecno\desktop\practicando punteros\arboles\main.cpp
+	"bst.h"
+	<iostream>
+	<iterator>
+	<cstddef>
+	<vector>
+	<queue>
+
