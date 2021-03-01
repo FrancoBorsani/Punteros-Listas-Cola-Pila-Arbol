@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1614611569 source:c:\users\medicentecno\desktop\tda\tdaimplementación.cpp
+	"tdaHeader.h"
+
+1614611655 c:\users\medicentecno\desktop\tda\tdaheader.h
+
+1614610255 source:c:\users\medicentecno\desktop\tda\main.cpp
+	<iostream>
+	"tdaHeader.h"
+
