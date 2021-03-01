@@ -8,7 +8,7 @@ typedef struct Tda * estructura;
 
 estructura crearTda();
 
-int getId(struct Tda * tda);
+int getId(estructura tda);
 
 void setId(estructura &tda, int n);
 

@@ -11,7 +11,7 @@ struct Tda{
 };
 
 
-int getId(struct Tda * tda){
+int getId(estructura tda){
     return tda->id;
 }
 
